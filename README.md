@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# Data Projects
 
 This repository showcases my work in data analysis.
 
